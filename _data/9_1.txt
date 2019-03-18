@@ -1,0 +1,12 @@
+hi
+hello
+there
+i
+am
+making
+some
+shell
+scripts
+now
+see
+?

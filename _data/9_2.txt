@@ -1,0 +1,13 @@
+pretty
+cool
+stuff
+it
+seems
+to
+be
+bash
+stands
+for
+bourne
+again
+shell
